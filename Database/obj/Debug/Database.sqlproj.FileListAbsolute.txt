@@ -1,0 +1,6 @@
+C:\Users\deepak.kumar\Source\Repos\BookStore\Database\bin\Debug\Database.dacpac
+C:\Users\deepak.kumar\Source\Repos\BookStore\Database\bin\Debug\Database.dll
+C:\Users\deepak.kumar\Source\Repos\BookStore\Database\bin\Debug\Database.pdb
+C:\Users\deepak.kumar\Source\Repos\BookStore\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\deepak.kumar\Source\Repos\BookStore\Database\obj\Debug\Database.dll
+C:\Users\deepak.kumar\Source\Repos\BookStore\Database\obj\Debug\Database.pdb
